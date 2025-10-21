@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="ADTLibrary">
+      <HintPath>..\ADTLibrary\bin\Debug\net8.0\ADTLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
